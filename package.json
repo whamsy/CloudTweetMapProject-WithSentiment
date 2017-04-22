@@ -1,0 +1,23 @@
+{
+  "name": "tweetmap2node",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2",
+    "aws-sdk": "^2.41.0",
+    "aws-sns-publish": "^3.0.0",
+    "elasticsearch": "^13.0.0-rc2",
+    "express": "^4.15.2",
+    "monkeylearn": "^0.1.11",
+    "sqs-consumer": "^3.5.0"
+  }
+}
